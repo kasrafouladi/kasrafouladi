@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kasrafouladi a computer sience enthusiast
+# 👋 Hi, I’m [Kasra Fouladi](https://www.researchgate.net/profile/Kasra-Fouladi) a computer sience enthusiast
 - 👀 I’m interested in informatics especially competitive programming, AI, cryptography and quantum computing
 - 🌱 I’m currently learning about AI multi-agent models, quantum computing applications
 - 💞️ I’m looking to find sponsor/collaborator for my projects
