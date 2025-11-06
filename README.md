@@ -1,9 +1,6 @@
-# 👋 Hi, I’m [Kasra Fouladi](https://www.researchgate.net/profile/Kasra-Fouladi) a computer sience enthusiast
-- 👀 I’m interested in informatics especially competitive programming, AI, cryptography and quantum computing
-- 🌱 I’m currently learning about MARL(Multi Agent RL) and quantum computing applications
-- 💞️ I’m looking to find sponsor/collaborator for my projects
-- ⚡ Fun fact: I'm Founder of a Tech startup named [bistoyek21 R.I.C.](https://github.com/bistoyek21-ric) 2023-2025 at the age of 17
-- 📗 I'm the editor of **Insight Informatics**, a scientific educational journal on informatics at [bistoyek21 R.I.C.](https://github.com/bistoyek21-ric) 
+# 👋 Hi! I’m Kasra Fouladi, a computer sience enthusiast.
+- 👀 I’m currently researching about Agentic systems and RL applications.
+- 💞️ I’m looking to find sponsors/collaborators for my projects.
 - 📨 Email: k4sr405@gmail.com
 
 <!---
