@@ -1,6 +1,6 @@
 # 👋 Hi! I’m Kasra Fouladi, a computer sience enthusiast.
-- 👀 I’m currently researching about Agentic systems and RL applications.
-- 💞️ I’m looking to find sponsors/collaborators for my projects.
+- 📚 I’m currently researching about xAI and RL applications.
+- 👀 I’m looking to find research internship/scholarship.
 - 📨 Email: k4sr405@gmail.com
 
 <!---
